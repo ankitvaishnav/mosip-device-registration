@@ -1,0 +1,2 @@
+dType,deviceId,deviceCode,purpose,serviceVersion,deviceSubId,firmware,deviceStatus,env,certification,callbackId,serialNo,make,model,type,deviceSubType,deviceProvider,deviceProviderId,name,description,deviceTypeCode,zoneCode,regCenterId
+Finger,1,c3950a33-bc67-4b0f-9775-dac156ba91be,Registration,SB.WIN.001,"[1,2,3 ]",SB.WIN.001,READY,STAGING,L0,http://127.0.0.1:4501/,C8R1ET07637,Aratek,FRO900,Finger,Slap,SYNCBYTE,SYNCBYTE.FRO900,Finger Scanner,To capture Finger data,FRS,CK,10001
