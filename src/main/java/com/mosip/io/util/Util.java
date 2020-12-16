@@ -145,6 +145,9 @@ public class Util {
 			outerMap.put(keyForTestCase, mp);
 		}
 		Map<String, String> rowMap = outerMap.get(dType);
+		if (rowMap != null) {
+			System.out.println("ROW---------------------------");
+		}
 		return rowMap;
 
 	}
