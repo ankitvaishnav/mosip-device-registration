@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a84623c-e406-4118-91d9-fbbc933b4b95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataFolder/full-device-type.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dataFolder/full-device-type.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607957543290</updated>
       <workItem from="1607957548695" duration="10007000" />
-      <workItem from="1608120263518" duration="1117000" />
+      <workItem from="1608120263518" duration="1815000" />
     </task>
     <servers />
   </component>
@@ -150,10 +151,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="390" y="112" key="#Runner/0.0.1440.900@0.0.1440.900" timestamp="1607958650144" />
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608120927172">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608121886988">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1608120927172" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1608121886988" />
     <state width="1398" height="440" key="GridCell.Tab.0.bottom" timestamp="1608120930557">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
