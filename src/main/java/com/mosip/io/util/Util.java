@@ -106,7 +106,7 @@ public class Util {
 		String deviceType = dType;
 		if (deviceType == null || deviceType.isEmpty())
 			throw new RuntimeException("Unable to load csv file with type :" + dType);
-		final String CSVFILEPATH = "./dataFolder/full-device-type.csv";
+		final String CSVFILEPATH = "./dataFolder/Sory-device.csv";
 		File file = new File(CSVFILEPATH);
 		byte[] bytes = null;
 		try {
