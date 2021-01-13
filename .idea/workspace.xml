@@ -145,7 +145,7 @@
       <workItem from="1608124663532" duration="2184000" />
       <workItem from="1608213035237" duration="2667000" />
       <workItem from="1610461974289" duration="495000" />
-      <workItem from="1610541742263" duration="2120000" />
+      <workItem from="1610541742263" duration="2315000" />
     </task>
     <servers />
   </component>
@@ -224,10 +224,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="456" y="98" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1608071029974" />
-    <state x="364" y="191" width="712" height="518" key="find.popup" timestamp="1610550230541">
+    <state x="205" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1610550972429">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="364" y="191" width="712" height="518" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1610550230541" />
+    <state x="205" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1610550972429" />
+    <state x="56" y="-4" width="1377" height="823" key="find.popup" timestamp="1610551051031">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="56" y="-4" width="1377" height="823" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1610551051031" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
