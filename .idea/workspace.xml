@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a84623c-e406-4118-91d9-fbbc933b4b95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/commonData.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/commonData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataFolder/mantra-device copy.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataFolder/mantra-device.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,14 @@
         <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="postgres: database" type="162271b6:PgImplModel$Database" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@35.239.215.118" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
       </path>
     </expand>
     <select />
