@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0a84623c-e406-4118-91d9-fbbc933b4b95" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataFolder/teli-device.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dataFolder/teli-device-syncbyte.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/commonData.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/commonData.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
