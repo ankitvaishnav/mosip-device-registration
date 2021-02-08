@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0a84623c-e406-4118-91d9-fbbc933b4b95" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/commonData.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/commonData.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,10 +239,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="205" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1610550972429" />
-    <state x="56" y="-4" width="1377" height="823" key="find.popup" timestamp="1610551051031">
+    <state x="56" y="25" width="1377" height="823" key="find.popup" timestamp="1612788455744">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="56" y="-4" width="1377" height="823" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1610551051031" />
+    <state x="56" y="25" width="1377" height="823" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1612788455744" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
