@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a84623c-e406-4118-91d9-fbbc933b4b95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dataFolder/kit-2-910010-syncbye.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataFolder/synbyte-910009.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataFolder/syncbyte-910009.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/commonData.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/commonData.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
