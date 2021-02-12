@@ -1,3 +1,1 @@
 dType,deviceId,deviceCode,purpose,serviceVersion,deviceSubId,firmware,deviceStatus,env,certification,callbackId,serialNo,make,model,type,deviceSubType,deviceProvider,deviceProviderId,name,description,deviceTypeCode,zoneCode,regCenterId
-Iris,3621335,77f78059-3306-4157-ab89-04e665308537,Registration,1.0.0,,1.0.0,Ready,Staging,L0,http://127.0.0.1:4501/,3621335,MANTRA,MATISX,Iris,Double,Mantra Softech India Pvt. Ltd.,729aaa95-d812-4285-9231-c0200a970401,Double Iris,To capture Iris,IRS,CK,10001
-Finger,3621361,e2ae1d02-68b0-4c8f-a5d0-9612be7f45ae,Registration,1.0.0,,1.0.0,Ready,Staging,L0,http://127.0.0.1:4501/,3621361,MANTRA,MORPHS60,Finger,Slap,Mantra Softech India Pvt. Ltd.,729aaa95-d812-4285-9231-c0200a970401,Finger Scanner,To capture Finger data,FRS,CK,10001

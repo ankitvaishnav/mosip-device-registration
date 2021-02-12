@@ -1,2 +1,0 @@
-dType,deviceId,deviceCode,purpose,serviceVersion,deviceSubId,firmware,deviceStatus,env,certification,callbackId,serialNo,make,model,type,deviceSubType,deviceProvider,deviceProviderId,name,description,deviceTypeCode,zoneCode,regCenterId
-Face,b118d194-f408-4f60-8c54-11dbdd75c354,b118d194-f408-4f60-8c54-11dbdd75c354,Registration,SB.WIN.001,[0],SB.WIN.001,READY,STAGING,L0,http://127.0.0.1:4501/,892746847,Logitech,C615,Face,Full face,SYNCBYTE,SYNCBYTE.LTC165,Face Cam,To capture Face,CMR,CK,10001

@@ -1,2 +1,0 @@
-dType,deviceId,deviceCode,purpose,serviceVersion,deviceSubId,firmware,deviceStatus,env,certification,callbackId,serialNo,make,model,type,deviceSubType,deviceProvider,deviceProviderId,name,description,deviceTypeCode,zoneCode,regCenterId
-Iris,8c2d5b9b-bc56-4364-a60f-d65bde5efbb0,8c2d5b9b-bc56-4364-a60f-d65bde5efbb0,Registration,SB.WIN.001,[1-2-3],SB.WIN.001,READY,STAGING,L0,http://127.0.0.1:4501/,9374526,EYECOOL,TCI322,Iris,DoubleIris,SYNCBYTE,SYNCBYTE.TCI322,Double Iris,To capture Iris,IRS,CK,10001

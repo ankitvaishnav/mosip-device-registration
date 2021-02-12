@@ -1,2 +1,0 @@
-dType,deviceId,deviceCode,purpose,serviceVersion,deviceSubId,firmware,deviceStatus,env,certification,callbackId,serialNo,make,model,type,deviceSubType,deviceProvider,deviceProviderId,name,description,deviceTypeCode,zoneCode,regCenterId
-Auth,e799e611-6ce5-468e-b442-886430955f5d,e799e611-6ce5-468e-b442-886430955f5d,Auth,SB.WIN.001,[1-2-3],SB.WIN.001,READY,STAGING,L0,http://127.0.0.1:4501/,C8R1CP15256,SB,FRO900,Finger,Slab,SYNCBYTE,SYNCBYTE.TCI322,Finger Scanner,To capture FRS,FRS,CK,10001
