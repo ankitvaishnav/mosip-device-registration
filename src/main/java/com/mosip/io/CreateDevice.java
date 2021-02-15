@@ -79,7 +79,7 @@ public class CreateDevice extends Util{
 					"masterdata")) {
 				auditLog.info(deviceIdValue + " alredy exit in DB  so, deleting..");
 			}
-		} 
+		}
 		if(db.executeQuery("update  master.device_master set id="+"'"+deviceIdValue+"'" +" where id="+"'"+deviceId+"'" +" and dspec_id="+"'"+deviceSpecId+"'", "masterdata") &&
 				db.executeQuery("update  master.device_master_h set id="+"'"+deviceIdValue+"'" +" where id="+"'"+deviceId+"'" +" and dspec_id="+"'"+deviceSpecId+"'", "masterdata")) {
 			deviceIdUpdatedValue=deviceIdValue;
