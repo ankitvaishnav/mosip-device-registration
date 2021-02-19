@@ -7,11 +7,9 @@
     <session-factory>
 
         <!-- JDBC Database connection settings -->
-        <property name="connection.driver_class">org.postgresql.Driver</property>
-
-        <property name="connection.url">jdbc:postgresql://sandbox2:30090/mosip_master</property>
-        <property name="connection.username">masteruser</property>
-        <property name="connection.password">Mosip@dev123</property>
+        <property name="connection.url">jdbc:postgresql://sandbox2.mosip.net:30090/mosip_master</property>
+        <property name="connection.username">postgres</property>
+        <property name="connection.password">postgres</property>
         <property name="hibernate.default_schema">master</property>
 
         <!-- JDBC connection pool settings ... using built-in test pool -->
